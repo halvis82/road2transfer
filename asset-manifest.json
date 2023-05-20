@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/road2transfer/static/css/main.073c9b0a.css",
-    "main.js": "/road2transfer/static/js/main.e94b7bd4.js",
+    "main.css": "/road2transfer/static/css/main.7e1a413a.css",
+    "main.js": "/road2transfer/static/js/main.0279f311.js",
     "static/js/787.505cb871.chunk.js": "/road2transfer/static/js/787.505cb871.chunk.js",
-    "static/media/logo.svg": "/road2transfer/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/deezanzanuts.png": "/road2transfer/static/media/deezanzanuts.42c56c8bc0e6b4c027b2.png",
     "index.html": "/road2transfer/index.html",
-    "main.073c9b0a.css.map": "/road2transfer/static/css/main.073c9b0a.css.map",
-    "main.e94b7bd4.js.map": "/road2transfer/static/js/main.e94b7bd4.js.map",
+    "main.7e1a413a.css.map": "/road2transfer/static/css/main.7e1a413a.css.map",
+    "main.0279f311.js.map": "/road2transfer/static/js/main.0279f311.js.map",
     "787.505cb871.chunk.js.map": "/road2transfer/static/js/787.505cb871.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e94b7bd4.js"
+    "static/css/main.7e1a413a.css",
+    "static/js/main.0279f311.js"
   ]
 }
